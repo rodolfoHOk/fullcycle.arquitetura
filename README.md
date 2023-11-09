@@ -65,3 +65,12 @@
 ### V2
 
 ![Live 02 - 45](files/l02-45.png)
+
+## Live 03 - System Design na prática
+
+![Live 03 - 01](files/l03-01.png)
+![Live 03 - 02](files/l03-02.png)
+![Live 03 - 03](files/l03-03.png)
+![Live 03 - 04](files/l03-04.png)
+![Live 03 - 05](files/l03-05.png)
+![Live 03 - 06](files/l03-06.png)
